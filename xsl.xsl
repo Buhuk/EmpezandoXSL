@@ -18,6 +18,7 @@
                     <th>Editor</th>
                     <th>ISBN</th>
                     <th>Precio</th>
+                    <th>Precio</th>
                     
                     <xsl:for-each select="//libro">
                       <tr>
